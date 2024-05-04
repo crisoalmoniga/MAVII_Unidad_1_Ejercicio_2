@@ -1,0 +1,4 @@
+﻿  SFMLRenderer.cpp
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAV2\Unidad 2\MAVII_Unidad_1_Ejercicio_2\MAVII_Unidad_1_Ejercicio_2\EsqueletoAPP\Box2dFirstAp\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAV2\Unidad 2\MAVII_Unidad_1_Ejercicio_2\MAVII_Unidad_1_Ejercicio_2\EsqueletoAPP\Box2dFirstAp\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Box2dEmptyApp.vcxproj -> D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAV2\Unidad 2\MAVII_Unidad_1_Ejercicio_2\MAVII_Unidad_1_Ejercicio_2\EsqueletoAPP\Box2dFirstAp\Bin\Debug\Box2dEmptyApp.exe
