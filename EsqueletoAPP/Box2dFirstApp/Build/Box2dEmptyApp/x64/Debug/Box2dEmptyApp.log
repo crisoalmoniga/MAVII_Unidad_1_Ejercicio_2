@@ -1,0 +1,18 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(56,50): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(56,50): warning C4244:         with
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(56,50): warning C4244:         [
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(56,50): warning C4244:             T=float
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(56,50): warning C4244:         ]
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(61,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(61,52): warning C4244:         with
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(61,52): warning C4244:         [
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(61,52): warning C4244:             T=float
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(61,52): warning C4244:         ]
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(63,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  SFMLRenderer.cpp
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> C:\Users\Criso\Downloads\EsqueletoAPP (1)\EsqueletoAPP\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
